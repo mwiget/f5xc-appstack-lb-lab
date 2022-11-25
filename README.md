@@ -15,8 +15,8 @@ public load balancer (via RE) and via public custom VIP.
 +----------+    |
 ```    
 
-Load Balancer 1: http://mwlb.mwlabs.net [94.231.81.88]
-Load Balancer 2: https://mwlb.adn-qs.helloclouds.app
+- Load Balancer 1: http://mwlb.mwlabs.net [94.231.81.88]
+- Load Balancer 2: https://mwlb.adn-qs.helloclouds.app
 
 Origin pool: ghcr.io/mwiget/webserver deployment with replicas set to 1 on App stack site marcel-colo.
 
