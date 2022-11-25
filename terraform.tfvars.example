@@ -1,0 +1,12 @@
+# volterra-corp.staging
+f5xc_api_url      = "https://volterra-corp.staging.volterra.us/api"
+f5xc_api_ca_cert  = ""
+f5xc_api_p12_file = ""
+f5xc_tenant       = "volterra-corp-........"
+f5xc_api_token    = "............................"
+
+project_prefix    = "mwlb"
+namespace         = "mwlb"
+appstack_site     = "marcel-colo"
+delegated_domain  = "adn-qs.helloclouds.app"
+
